@@ -22,8 +22,7 @@ The Road Accident Dashboard presents a comprehensive view of various aspects rel
 
 -> It displays key insights related to road accidents, including the total number of accidents, total casualties, casualties by location, casualties by vehicle type, casualties by weather conditions etc.,<br/>
 
-Major KPI's :<br/>
-
+#### Major KPI's :<br/>
 •	Total accidents in current and previous year along with YoY growth. <br/>
 •	Total casualties based on accident severity.<br/> 
 •	Different type of casualties with respect to current and previous year along with YoY growth. <br/>
