@@ -4,8 +4,8 @@ Introduction:
 Road accidents pose a significant threat to public safety, causing immense loss of life and property worldwide. Understanding the patterns and trends of road accidents is crucial for policymakers, law enforcement agencies, and individuals alike to implement effective measures for prevention and mitigation. In this analysis, we delve into the Road Accident Dashboard created using Tableau, aiming to unearth insights and trends that can inform decision-making and promote road safety initiatives.
 
 ## SOFTWARES USED
-* Microsoft Excel
-* Tableu
+* Microsoft Excel for Data Cleaning
+* Tableu for Data Visualisation and Analysis
 
 ## Datasource:
 The dataset used in this project is about road accident casualties in UK in year 2021 and 2022.
@@ -16,7 +16,20 @@ The Road Accident Dashboard presents a comprehensive view of various aspects rel
 ### Dashboard Visualization
 * [View Dashboard visualization on Tableu Public](https://public.tableau.com/views/RoadAccidentDashboard_17101110188620/RoadAccidentDashboard?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-![image](https://github.com/DavidRemo/Road-Accident-Dashboard-in-Tableu/assets/68180517/8277a116-8be3-4b1c-934e-4a3e4ab412d0)
+![image](https://github.com/DavidRemo/Road-Accident-Dashboard-in-Tableu/assets/68180517/8277a116-8be3-4b1c-934e-4a3e4ab412d0) <br/>
+
+-> This dashboard is completely dynamic and interactive which is operated by using the filters (current year, previous year, Accident severity).<br/>
+
+-> It displays key insights related to road accidents, including the total number of accidents, total casualties, casualties by location, casualties by vehicle type, casualties by weather conditions etc.,<br/>
+
+Major KPI's :<br/>
+
+•	Total accidents in current and previous year along with YoY growth. <br/>
+•	Total casualties based on accident severity.<br/> 
+•	Different type of casualties with respect to current and previous year along with YoY growth. <br/>
+•	Donut charts ⭕: These are custom charts that shows casualties by weather condition and road surfaces.<br/>
+•	Bar chart 📊: It shows the casualties based on road types.<br/>
+•	Maps 🌐: Displays the information about accident severity, number of casualties in different areas.
 
 
 ## Key Findings:
