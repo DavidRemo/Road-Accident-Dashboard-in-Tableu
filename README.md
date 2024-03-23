@@ -16,7 +16,7 @@ The Road Accident Dashboard presents a comprehensive view of various aspects rel
 ### Dashboard Visualization
 * [View Dashboard visualization on Tableu Public](https://public.tableau.com/views/RoadAccidentDashboard_17101110188620/RoadAccidentDashboard?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-* ![image](https://github.com/DavidRemo/Road-Accident-Dashboard-in-Tableu/assets/68180517/8277a116-8be3-4b1c-934e-4a3e4ab412d0)
+![image](https://github.com/DavidRemo/Road-Accident-Dashboard-in-Tableu/assets/68180517/8277a116-8be3-4b1c-934e-4a3e4ab412d0)
 
 
 ## Key Findings:
